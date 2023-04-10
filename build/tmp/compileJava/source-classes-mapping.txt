@@ -1,0 +1,8 @@
+ru/master/demo2/Room2.java
+ ru.master.demo2.Room2
+ru/master/demo1/WorkThread.java
+ ru.master.demo1.WorkThread
+ru/master/demo1/NewWorker.java
+ ru.master.demo1.NewWorker
+ru/master/demo1/Room1.java
+ ru.master.demo1.Room1
