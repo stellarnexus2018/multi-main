@@ -8,7 +8,5 @@ public class RoomPredicate {
   public static void main(String[] args) {
     //new Test1().runOne();
     new Test2().runOne();
-
-
   }
 }

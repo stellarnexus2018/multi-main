@@ -12,9 +12,13 @@ ru/master/demo3/Cat.java
  ru.master.demo3.Cat
 ru/master/demo1/WorkThread.java
  ru.master.demo1.WorkThread
-ru/master/predicate/RoomPredicate.java
- ru.master.predicate.RoomPredicate
-ru/master/predicate/Test1.java
- ru.master.predicate.Test1
 ru/master/predicate/Test2.java
  ru.master.predicate.Test2
+ru/master/predicate/Test1.java
+ ru.master.predicate.Test1
+ru/master/predicate/RoomPredicate.java
+ ru.master.predicate.RoomPredicate
+ru/master/function/Test1.java
+ ru.master.function.Test1
+ru/master/function/RoomFunction.java
+ ru.master.function.RoomFunction
