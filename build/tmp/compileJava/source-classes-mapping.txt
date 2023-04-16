@@ -22,3 +22,8 @@ ru/master/function/Test1.java
  ru.master.function.Test1
 ru/master/function/RoomFunction.java
  ru.master.function.RoomFunction
+ru/master/comparator/Test1.java
+ ru.master.comparator.Cat
+ ru.master.comparator.Test1
+ru/master/comparator/RoomComparator.java
+ ru.master.comparator.RoomComparator
